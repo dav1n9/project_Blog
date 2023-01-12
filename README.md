@@ -1,8 +1,6 @@
 # project_Blog
 # sgdevcamp_blog
 
-파일이 너무 많아 업로드가 안되서, 압축 후 업로드 하였습니다.
-
 ## 1. 기술 스택
 
 JavaSQLite
